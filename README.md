@@ -7,20 +7,14 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![npm](https://img.shields.io/npm/v/react-native-template-rocketseat-basic.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-rocketseat-basic)
-[![npm](https://img.shields.io/npm/dt/react-native-template-rocketseat-basic.svg)](https://www.npmjs.com/package/react-native-template-rocketseat-basic)
-[![GitHub issues](https://img.shields.io/github/issues-raw/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/Rocketseat/react-native-template-rocketseat-basic/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/Rocketseat/react-native-template-rocketseat-basic/commits/master)
-[![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-basic.svg)](https://choosealicense.com/licenses/mit)
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://rocketseat.com.br">
-    <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
+  <a href="https://josiaspereira.com.br">
+    <img src="https://josiaspereira.com.br/wp-content/uploads/2019/10/cropped-oficial.png" width="432" height="105" alt="Logo">
   </a>
 
-  <h3 align="center">Template Rocketseat Basic</h3>
+  <h3 align="center">Projeto baseado no Template da Rocketseat</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
