@@ -4,7 +4,6 @@
 *** Request ou abra uma Issue com a tag "sugestão".
 *** Obrigado novamente! Agora vamos rodar esse projeto incrível :D
 -->
-
 <!-- PROJECT SHIELDS -->
 
 <!-- PROJECT LOGO -->
@@ -21,4 +20,4 @@
 
 ## Contato
 
-Rocketseat - [Github](https://github.com/josiaspereira) - **contato@josiaspereira.com.br**
+Josias Pereira - [Github](https://github.com/josiaspereira) - **contato@josiaspereira.com.br**
